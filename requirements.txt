@@ -1,0 +1,9 @@
+SpeechRecognition
+elevenlabslib
+openai
+pyttsx3
+sounddevice
+soundfile
+pyaudio
+pyyaml
+pyinstaller
